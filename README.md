@@ -1,0 +1,2 @@
+# YTdownloader
+Using this YouTube download downloader tool is very easy, the only thing you have to do that you just copy the link of that YouTube video and just past on the input box then, it's automatic going to generate 3 size thumbnail of that YouTube video, First one going to be high quality second is on HD quality and third is low quality you can use any one of them by just click on that image and you will get the download link then you can save that file on a computer or mobile phone then use it's you want.
